@@ -1,0 +1,19 @@
+[project]
+name = "StackOverflow"
+version = "0.1.0.dev"
+description = "A simple replication for StackOverflow."
+readme = "README.md"
+license = {file = "LICENSE.txt"}
+maintainers = []
+requires-python = ">=3.10"
+dependencies = [
+    "flask==3.0.3",
+]
+
+[project.urls]
+Source = "https://github.com/GambatteInoKi/StackOverflowProject/"
+
+
+[project.optional-dependencies]
+async = ["asgiref>=3.2"]
+dotenv = ["python-dotenv"]
