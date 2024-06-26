@@ -20,3 +20,7 @@ Please import flask_api_postman_collection.json in your Postman Desktop app to v
 
 ![Screenshot 2024-06-26 at 12 35 50 PM](https://github.com/hshastri/StackOverflowProject/assets/35407439/f59512e4-aef0-4ec5-8e2a-71cdcc12da25)
 
+Here's the documentaion of the collection: 
+
+![Screenshot 2024-06-26 at 12 53 32 PM](https://github.com/hshastri/StackOverflowProject/assets/35407439/cb08d445-e7f0-4033-b26d-17a9c45a6df3)
+![Screenshot 2024-06-26 at 12 54 08 PM](https://github.com/hshastri/StackOverflowProject/assets/35407439/d98a61e7-71fe-4fd9-b815-86c15bfb4d89)
